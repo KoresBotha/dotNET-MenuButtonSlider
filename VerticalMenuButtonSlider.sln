@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dotNET_MenuButtonSlider", "VerticalMenuButtonSlider\dotNET_MenuButtonSlider.vbproj", "{6BE74A99-AC05-46A5-B50C-CD8206171DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE74A99-AC05-46A5-B50C-CD8206171DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE74A99-AC05-46A5-B50C-CD8206171DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE74A99-AC05-46A5-B50C-CD8206171DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE74A99-AC05-46A5-B50C-CD8206171DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F4DB89-D068-4E53-80E7-FAB6042E4496}
+	EndGlobalSection
+EndGlobal
